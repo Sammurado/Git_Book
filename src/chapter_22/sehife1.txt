@@ -1,0 +1,4 @@
+poxu tezden yaratdim gorum ne olacag
+
+
+indi texti commit edecem kompdan sonra gitden kompa
